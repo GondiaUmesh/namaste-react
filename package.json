@@ -1,0 +1,30 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Umesh Gondia",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GondiaUmesh/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Umesh Gondia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GondiaUmesh/namaste-react/issues"
+  },
+  "homepage": "https://github.com/GondiaUmesh/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserslist":[
+    "last 3 versions"
+  ]
+}
